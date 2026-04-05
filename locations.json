@@ -2,6 +2,6 @@
   "pICquCZHU5Ooa3M46yCB": {
     "name": "Sandbox Test Account",
     "hideMenu": true,
-    "redirectUrl": "https://login.airwayz.com/v2/location/pICquCZHU5Ooa3M46yCB/custom-menu-link/dd4a68b7-1ccf-4b94-b36c-2ad1dae4d5fc"
+    "menuLinkId": "dd4a68b7-1ccf-4b94-b36c-2ad1dae4d5fc"
   }
 }
