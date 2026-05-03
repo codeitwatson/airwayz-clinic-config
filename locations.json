@@ -28,5 +28,10 @@
     "subdomain": "testairwayclinic",
     "clinicCode": "TAF",
     "createdAt": "2026-05-03T21:11:43.410Z"
+  },
+  "NZ8Emdb99IucL59ZZYeE": {
+    "subdomain": "mindytestclinic",
+    "clinicCode": "MST",
+    "createdAt": "2026-05-03T22:10:44.436Z"
   }
 }
