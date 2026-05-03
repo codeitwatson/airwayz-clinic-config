@@ -13,5 +13,10 @@
     "subdomain": "testairwayclinic",
     "clinicCode": "TAC",
     "createdAt": "2026-05-03T19:21:39.179Z"
+  },
+  "0PoUWvFlyehSpt2QxpM7": {
+    "subdomain": "testairwayclinic",
+    "clinicCode": "TAD",
+    "createdAt": "2026-05-03T19:56:51.838Z"
   }
 }
